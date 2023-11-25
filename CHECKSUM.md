@@ -1,0 +1,2 @@
+# Five_Nights_At_Freddys_Redux.zip
+SHA1 checksum: 3479dbe2c4d325fe7d55b19fce7a6adf21b72e33
