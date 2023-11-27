@@ -8,3 +8,7 @@ assignees: Vercixx
 ---
 
 Please add link to a website with your resource pack. It's recommended that a website is English.
+*You can delete this text*
+
+# Link to resource pack
+Insert link here:
